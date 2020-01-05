@@ -1,6 +1,6 @@
 """
 A test that plots the learning curve of the chosen data set using the chosen
-number ef examples. Each point is obtained by averaging over 20 trials.
+number of examples. Each point is obtained by averaging over 20 trials.
 """
 
 from decision_tree_learner import DecisionTreeLearner
