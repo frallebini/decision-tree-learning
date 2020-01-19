@@ -36,10 +36,7 @@ def T(attr_name, branches):
     return DecisionTree(restaurant.attr_num(attr_name), attr_name, branches)
 
 
-""" 
-[Figure 18.2]
-A decision tree for deciding whether to wait for a table at a hotel.
-"""
+# A decision tree for deciding whether to wait for a table at a hotel.
 waiting_decision_tree = T('Patrons',
                           {'None': 'No',
                            'Some': 'Yes',
