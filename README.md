@@ -1,6 +1,6 @@
 # Decision Tree Learning
 
-Python implementation of decision tree learning with (and without) rule post-pruning.
+Python implementation of Decision Tree Learning with (and without) Rule Post-Pruning.
 
 Run files [`learning_curve_test.py`](src/learning_curve_test.py) and 
 [`cross_validation_test.py`](src/cross_validation_test.py) to see the results. The code was tested with Python 3.7.
